@@ -1,0 +1,17 @@
+{
+"companyName": "GDUT_VIT",
+"productName": "SPACE X",
+"productVersion": "0.1",
+"dataUrl": "Game1.data.unityweb",
+"wasmCodeUrl": "Game1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Game1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
